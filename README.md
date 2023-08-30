@@ -49,7 +49,8 @@ npm run dev
 
 
 ## Play trailer
-![10](https://user-images.githubusercontent.com/59603716/232020438-ae399084-4946-4c0f-8af8-bbcfa11a3b11.PNG)
+![10](https://github.com/kvishalkr/movieclub/assets/101409155/2586235b-c37e-406f-a855-9b6d8a2032b9)
+
 
 ## Explore movies
 ![15](https://user-images.githubusercontent.com/59603716/232020764-4207ccbe-f19d-4f41-a1fa-887d8606005b.PNG)
