@@ -59,7 +59,8 @@ npm run dev
 ![16](https://user-images.githubusercontent.com/59603716/232020852-f0e74fa7-0c32-48b9-a583-038e0f02e5c1.PNG)
 
 ## Not found
-![17](https://user-images.githubusercontent.com/59603716/232020936-875538ae-0437-4416-a5c7-95eb6f34d2de.PNG)
+![image](https://github.com/kvishalkr/movieclub/assets/101409155/92c9ef2d-cd90-46d8-a396-1705fdac1acc)
+
 
 ## Search results
 ![18](https://user-images.githubusercontent.com/59603716/232020981-f4110f04-c6c1-4ecc-8b88-5597c11c8619.PNG)
