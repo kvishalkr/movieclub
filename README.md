@@ -42,10 +42,10 @@ npm run dev
 
 
 ## Single movie detail
-![9](https://user-images.githubusercontent.com/59603716/232001496-b737eafb-fb25-4578-9d2a-8a2ecf821c50.PNG)
-![11](https://user-images.githubusercontent.com/59603716/232020563-e81d9a6a-10ac-461b-ba42-97f4521248b6.PNG)
-![12](https://user-images.githubusercontent.com/59603716/232020582-3e0008e0-4577-42e4-b7f4-9fefb617f794.PNG)
-![13](https://user-images.githubusercontent.com/59603716/232020605-258460ee-9802-4698-833f-c6188c4baa2d.PNG)
+![6](https://github.com/kvishalkr/movieclub/assets/101409155/23c23685-6bb1-4167-9805-76e21f60374f)
+![7](https://github.com/kvishalkr/movieclub/assets/101409155/96d23299-3d23-4ee7-93b4-869654e03c76)
+![8](https://github.com/kvishalkr/movieclub/assets/101409155/ee229579-bc4b-449e-af13-56cda4335140)
+
 
 ## Play trailer
 ![10](https://user-images.githubusercontent.com/59603716/232020438-ae399084-4946-4c0f-8af8-bbcfa11a3b11.PNG)
