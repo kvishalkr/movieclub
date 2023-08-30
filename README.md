@@ -42,9 +42,10 @@ npm run dev
 
 
 ## Single movie detail
+![8](https://github.com/kvishalkr/movieclub/assets/101409155/ee229579-bc4b-449e-af13-56cda4335140)
 ![6](https://github.com/kvishalkr/movieclub/assets/101409155/23c23685-6bb1-4167-9805-76e21f60374f)
 ![7](https://github.com/kvishalkr/movieclub/assets/101409155/96d23299-3d23-4ee7-93b4-869654e03c76)
-![8](https://github.com/kvishalkr/movieclub/assets/101409155/ee229579-bc4b-449e-af13-56cda4335140)
+
 
 
 ## Play trailer
